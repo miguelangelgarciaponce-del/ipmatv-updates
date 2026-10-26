@@ -1,10 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://github.com/miguelangelgarciaponce-del/ipmatv-updates/releases/latest/download/app-release.apk",
-  "novedades": "Sesión guardada, canales recientes con su categoría y mejoras",
+  "novedades": "Botón para renovar: te avisamos al momento",
   "obligatoria": false,
   "mensaje": "",
   "whatsapp": ""
 }
- 
