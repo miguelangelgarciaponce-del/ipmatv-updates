@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 12,
+  "versionName": "1.11",
   "apkUrl": "https://github.com/miguelangelgarciaponce-del/ipmatv-updates/releases/latest/download/app-release.apk",
   "novedades": "Botón para renovar: te avisamos al momento",
   "obligatoria": false,
